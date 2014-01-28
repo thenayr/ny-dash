@@ -2,7 +2,7 @@ require 'dashing'
 
 configure do
   set :auth_token, 'YOUR_AUTH_TOKEN'
-  set :default_dashboard, 'ny'
+  set :default_dashboard, 'vday'
 
   helpers do
     def protected!
